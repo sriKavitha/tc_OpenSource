@@ -1,0 +1,38 @@
+     {
+     "LogIn" : {
+            "homePageSignInBtn" : "#signin_button",
+            "loginUName" : "#user_login",
+            "loginPwd" : "#user_password",
+            "rememberMe" : "#user_remember_me",
+            "signInBtn" : ".btn.btn-primary",
+            "loginSuccessful" : "#account_summary_tab",
+            "logOutIcon" : ".dropdown-toggle>i.icon-user",
+            "logOutIconButton" : "#logout_link",
+            "loginError" : ".alert.alert-error"
+      },
+      "ForgotPwd" : 
+      {
+            "signInButton" : "#signin_button",
+            "forgotPwdLink" : "div.offset3.span6>a",
+            "emailTextBox" : "#user_email",
+            "sendPwdButton" :"input[value='Send Password']",
+            "emailSentMsg" : "div"
+           
+      },
+      "feedBack" :
+      {
+            "feedbackTab" : "ul#pages-nav>li:nth-child(3)",
+            "feedbackTitle" : "#feedback-title",
+            "feedbackName" : "#name",   
+            "feedbackEmail" : "#email",
+            "feedbackSubject" : "#subject",
+            "feedbackComment" : "#comment",
+            "feedbackSubmit" : ".btn-signin.btn.btn-primary"
+      },
+      "searchPageLoc" :
+      {
+            "searchTextboxNavbar":".navbar-search.pull-right>input#searchTerm",
+            "searchResults" : "div.top_offset>ul>li>a"
+      }
+
+}
